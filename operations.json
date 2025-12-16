@@ -1,0 +1,17 @@
+[
+    {
+      "bank_account_id": "12345",
+      "category_id": "1",
+      "amount": 5000,
+      "date": "2023-12-01T14:30:00",
+      "description": "Зарплата"
+    },
+    {
+      "bank_account_id": "12345",
+      "category_id": "2",
+      "amount": -350,
+      "date": "2023-12-02T19:45:00",
+      "description": "Ужин в кафе"
+    }
+  ]
+  
